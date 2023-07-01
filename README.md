@@ -1,5 +1,5 @@
-### Hello... 👋
-I'm Rachel! I'm a motivated and results-driven individual with a creative mindset and a keen eye for detail. I am currently seeking a software development role where I can contribute my skills, be part of exciting projects and expand my skill set within dynamic and innovative teams.
+### Hello... 
+I'm a motivated and results-driven individual with a creative mindset and a keen eye for detail. I am currently seeking a software development role where I can contribute my skills, be part of exciting projects and expand my skill set within dynamic and innovative teams.
 
 I am a graduate from the Full-Stack Software Developer program at Northcoders, and I am currently studying Data Science with HyperionDev. 
 <!--
